@@ -1,8 +1,29 @@
+#header1 {
+    background-color: #4A4A4A;
+}
+
+#header2 {
+    
+}
+
 #header3 {
     background-color: #408f46;
 }
 
+/* seção 2 */
+#secao2_div1 {
+    display: flex;
+    flex-direction: row
+}
 
+#secao2_div2 {
+    display: flex;
+    flex-direction: row
+}
+
+#secao2_div2div2, #secao2_div1div1 {
+    text-align: center;
+}
 
 /* footer */
 
@@ -17,3 +38,4 @@
     flex-direction: column;
     align-items: center;
 }
+
