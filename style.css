@@ -1,0 +1,19 @@
+#header3 {
+    background-color: #408f46;
+}
+
+
+
+/* footer */
+
+#footer {
+    background-color: #4A4A4A;
+    
+}
+
+#footer2-redes {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
